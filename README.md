@@ -1,4 +1,4 @@
-# Donation 💸 
+# Donation for Free Education 📚
 [![](https://img.shields.io/badge/⋈%20Examples-Basics-green)](https://docs.near.org/tutorials/welcome)
 [![](https://img.shields.io/badge/Gitpod-Ready-orange)](https://gitpod.io/#/https://github.com/near-examples/donation-js)
 [![](https://img.shields.io/badge/Contract-js-yellow)](https://docs.near.org/develop/contracts/anatomy)
@@ -8,7 +8,7 @@
 
 Our Donation example enables to forward money to an account while keeping track of it. It is one of the simplest examples on making a contract receive and send money.
 
-![](https://docs.near.org/assets/images/donation-7cf65e5e131274fd1ae9aa34bc465bb8.png)
+![EducationDonation](https://user-images.githubusercontent.com/52472445/189950199-7cb62583-839c-449e-a853-4baccfe28871.png)
 
 
 # What This Example Shows
